@@ -1241,3 +1241,7 @@
 2021-08-17 16:06:19,429 [INFO] ApiDb:230 - User favorites MCUs=[]
 2021-08-17 16:06:19,431 [INFO] ApiDb:226 - Save user favorites file C:\Users\harpr/.stm32cubeide/favorites.boards.txt: 0 item(s)
 2021-08-17 16:06:19,431 [INFO] ApiDb:230 - User favorites Boards=[]
+2021-08-18 16:03:55,338 [INFO] Activator:178 - 
+
+
+2021-08-18 16:03:55,343 [INFO] Activator:179 - !SESSION log4j initialized
